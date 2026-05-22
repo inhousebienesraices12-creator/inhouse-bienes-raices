@@ -1,0 +1,11 @@
+USE inhouse_bienes_raices;
+
+INSERT INTO propiedades
+(titulo, direccion, precio, tipo)
+VALUES
+(
+    'Apartamento Luxury',
+    'Cali Valle',
+    450000000,
+    'Venta'
+);
